@@ -17,6 +17,7 @@
 		845C6C7B27C8B6EE00C3208F /* RustoffTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845C6C7A27C8B6EE00C3208F /* RustoffTests.swift */; };
 		845C6C8527C8B6EE00C3208F /* RustoffUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845C6C8427C8B6EE00C3208F /* RustoffUITests.swift */; };
 		845C6C8727C8B6EE00C3208F /* RustoffUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845C6C8627C8B6EE00C3208F /* RustoffUITestsLaunchTests.swift */; };
+		845C6C9427C8C1C400C3208F /* rust.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845C6C9327C8C1C400C3208F /* rust.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		845C6C8027C8B6EE00C3208F /* RustoffUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RustoffUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		845C6C8427C8B6EE00C3208F /* RustoffUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RustoffUITests.swift; sourceTree = "<group>"; };
 		845C6C8627C8B6EE00C3208F /* RustoffUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RustoffUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		845C6C9327C8C1C400C3208F /* rust.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = rust.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				845C6C6227C8B6EA00C3208F /* SceneDelegate.swift */,
 				845C6C6427C8B6EA00C3208F /* ViewController.swift */,
 				845C6C6627C8B6EA00C3208F /* Main.storyboard */,
+				845C6C9327C8C1C400C3208F /* rust.storyboard */,
 				845C6C6C27C8B6ED00C3208F /* Assets.xcassets */,
 				845C6C6E27C8B6ED00C3208F /* LaunchScreen.storyboard */,
 				845C6C7127C8B6ED00C3208F /* Info.plist */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				845C6C9427C8C1C400C3208F /* rust.storyboard in Resources */,
 				845C6C7027C8B6ED00C3208F /* LaunchScreen.storyboard in Resources */,
 				845C6C6D27C8B6ED00C3208F /* Assets.xcassets in Resources */,
 				845C6C6827C8B6EA00C3208F /* Main.storyboard in Resources */,
